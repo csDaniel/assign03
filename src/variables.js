@@ -46,7 +46,7 @@ Output:
 return true if c is null, false otherwise
 */
 function isNull(c) {
-  if (c)
+  if (c === null)
 	return true;
   else
 	return false;
