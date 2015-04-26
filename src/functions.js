@@ -13,9 +13,10 @@
 */
 
 //your code here
-function uselessFunction() {
+function uselessFunction(){
 	return null;
 }
+
 //end your code
 
 var bar = 'not a function';
@@ -32,20 +33,20 @@ var barType = typeof bar;
 */
 
 //your code here
-
 bar = function(doubleArray){
-	count = 0;
+	var count = 0;
 	for (i = 0; i < doubleArray.length; i++) {
-		if (doubleArray[i] = doubleArray[i] * 2) {
+		if (doubleArray[i] *= 2) {
 			count++;
 		}
 	}
 	
 	// test count versus size.
-	if (count == doubleArray.length)
+	if (count == doubleArray.length) {
 		return true;
-	else
-		return false;	
+	}
+	// default return
+	return false;	
 }
 
 	
@@ -100,4 +101,4 @@ function parseGit(logArray) {
 	return splitLog;	
 	
 }
-//end your code
+//end your code 
