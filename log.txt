@@ -1,1 +1,48 @@
-You log goes in this  file.
+Assignment 3 part 1:
+
+Start:Sun, 26 Apr 2015 15:47:52 +0900
+End: Sun, 26 Apr 2015 16:47:52 +0900
+Tasks: Finished work on objects.js Began 3pm
+
+Start:End: Sun, 19 Apr 2015 17:09:49 +0900
+End: Sun, 19 Apr 2015 19:09:49 +0900
+Tasks: worked on functions.js
+
+Start: Sun, 19 Apr 2015 17:35:18 +0900
+End: Sun, 19 Apr 2015 18:33:18 +0900
+Tasks: added variables.js
+
+Start: Sun, 19 Apr 2015 17:35:18 +0900
+End: Sun, 19 Apr 2015 17:35:18 +0900
+Tasks: Begun Js practice
+
+Start:
+End: Sun, 12 Apr 2015 03:54:42 -0700
+Tasks: Modified TA account
+Start:
+End: Sun, 12 Apr 2015 03:46:55 -0700
+Tasks: initial commit
+
+Assignment 3 part 2:
+
+Start: Sun, 26 Apr 2015 18:36:17 +0900
+End: Sun, 26 Apr 2015 19:04:46 +0900
+Tasks: Cannot manage to do anything with the assignment.
+
+Start: Sun, 26 Apr 2015 17:52:18 +0900
+End: Sun, 26 Apr 2015 18:36:17 +0900
+Tasks: Still unable to make js and html work together
+
+Start: Sun, 26 Apr 2015 15:32:10 +0900
+End: Sun, 26 Apr 2015 17:52:18 +0900
+Tasks: began writing html for layout and input
+
+Start:
+End: Sun, 19 Apr 2015 16:31:49 -0700
+Tasks: browser requirement
+Start:
+End: Sun, 19 Apr 2015 16:27:56 -0700
+Tasks: Added assignment desc
+Start:
+End: Sun, 19 Apr 2015 16:26:52 -0700
+Tasks: Initial commit
